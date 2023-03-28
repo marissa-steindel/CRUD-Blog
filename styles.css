@@ -1,0 +1,81 @@
+/*
+
+    Assignment 3
+    Name: Marissa Steindel
+    Date: June 1, 2022
+    Description: Blog Application
+
+*/
+
+html
+{
+    background-color: orange;
+    font-family: sans-serif;
+    margin: 100px;
+}
+
+header
+{
+    padding-bottom: 50px;
+
+}
+
+header a h1
+{
+    display: inline;
+    padding: 30px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:visited
+{
+
+}
+
+.entry
+{
+    padding-top: 30px;
+}
+
+.toolong
+{
+    padding-left: 10px;
+
+}
+
+.elipsis
+{
+    display: inline;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+textarea
+{
+    resize: none;
+}
+
+form#newpost
+{
+    padding: 10px 0px;
+}
+
+div label
+{
+    margin: 40px 0px;
+}
+
+div label input#title
+{
+    padding-bottom: 10px;
+}
+
+
